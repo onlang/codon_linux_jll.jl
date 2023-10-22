@@ -1,0 +1,20 @@
+[[codon_linux]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e043f210a0f2ae15297842a44d696152960093bb"
+libc = "glibc"
+os = "linux"
+
+    [[codon_linux.download]]
+    sha256 = "f3815dddbf4dbf9b1cb6b7db9cea71f06a440b51a32242644e1dc1aee6d76235"
+    url = "https://github.com/onlang/codon_linux_jll.jl/releases/download/codon_linux-v0.16.3+0/codon_linux.v0.16.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[codon_linux]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e043f210a0f2ae15297842a44d696152960093bb"
+libc = "glibc"
+os = "linux"
+
+    [[codon_linux.download]]
+    sha256 = "f3815dddbf4dbf9b1cb6b7db9cea71f06a440b51a32242644e1dc1aee6d76235"
+    url = "https://github.com/onlang/codon_linux_jll.jl/releases/download/codon_linux-v0.16.3+0/codon_linux.v0.16.3.x86_64-linux-gnu-cxx11.tar.gz"
